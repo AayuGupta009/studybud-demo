@@ -8,8 +8,10 @@ Use the package manager [apt](https://ubuntu.com/server/docs/package-management)
 
 ```bash
 sudo apt-get install python3
+```
 
 To check whether python was installed successfully.
 
 ```bash
 python3 --version
+```
