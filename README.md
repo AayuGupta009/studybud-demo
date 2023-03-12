@@ -60,3 +60,11 @@ django-admin startproject projectname
 
 python3 manage.py runserver
 ```
+
+## Create a new Django app
+
+To create a new django app, we do.
+
+```bash
+django-admin startapp appname
+```
