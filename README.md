@@ -15,6 +15,8 @@ To check whether python was installed successfully.
 ```bash
 python3 --version
 ```
+## Pip install
+
 For installing libraries in python we can use [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 
 ## Setting Virtual Environment
