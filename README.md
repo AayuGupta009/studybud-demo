@@ -58,5 +58,5 @@ To create a starter django project, we use the following commands.
 ```bash
 django-admin startproject projectname
 
-python manage.py runserver
+python3 manage.py runserver
 ```
